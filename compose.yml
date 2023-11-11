@@ -1,6 +1,6 @@
 services:
   app:
-    container_name: app
+    container_name: container_name
     build: .
     tty: true
     ports:
